@@ -53,7 +53,7 @@ Atributos como **nome, peso e altura** são privados, acessíveis via getters e 
 ***1. Compile os arquivos:*** <br>
 ```javac Pessoa.java Atleta.java Main.java```
 
-***2. Execute o programa*** <br>
+***2. Execute o programa:*** <br>
 ```java Main```
 
 ***Exemplo de saída:***<br>
@@ -75,4 +75,4 @@ IMC ajustado para atleta: 18.56
 
 ---
 **Conclusão** 📌 <br>
-Este projeto demonstra de forma prática o uso de **POO em Java**, mostrando **herança, encapsulamento e sobrescrita de métodos**, enquanto realiza cálculos funcionais como o IMC. É ideal como exemplo de estudo ou como parte de um portfólio que evidencia domínio dos conceitos fundamentais de programação orientada a objetos.
+Este projeto demonstra de forma prática a aplicação dos conceitos de **Programação Orientada a Objetos** em Java, evidenciando **herança, encapsulamento e polimorfismo**. Ele realiza cálculos funcionais, como o IMC ajustado para atletas, mostrando como construir sistemas organizados e reutilizáveis.
